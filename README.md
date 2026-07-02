@@ -1,7 +1,7 @@
 ![starry-sky-2051448](https://user-images.githubusercontent.com/45968542/232229664-f021c7b6-55ed-41b7-9239-b21fc6d0e5ec.jpg)
 
 
-<h1 align="center">Hi 👋, I'm cYfaris</h1>
+<h1 align="center">Hi, I'm cYfaris</h1>
 <!-- <h3 align="center">Talk is cheap. Show me the code.</h3> -->
 
 <!-- <img align="right" width="400" src="https://media.tenor.com/VkScszX7f3YAAAAC/discord-banner.gif" alt="Smiley face" >
