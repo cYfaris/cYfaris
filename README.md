@@ -1,19 +1,18 @@
 ![starry-sky-2051448](https://user-images.githubusercontent.com/45968542/232229664-f021c7b6-55ed-41b7-9239-b21fc6d0e5ec.jpg)
 
 
-<h1 align="center">Hi 👋, I'm cyrus</h1>
+<h1 align="center">Hi 👋, I'm cYfaris</h1>
 <!-- <h3 align="center">Talk is cheap. Show me the code.</h3> -->
 
 <!-- <img align="right" width="400" src="https://media.tenor.com/VkScszX7f3YAAAAC/discord-banner.gif" alt="Smiley face" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrusmaster&label=Profile%20views&color=0e75b6&style=flat" alt="cyrusmaster" /> </p> -->
 
-- 🌱 I’m currently learning **algorithms**
 
-- 📝 I regularly write articles on [https://cyrusmaster.com](https://cyrusmaster.com)
+- 📝 I regularly write articles on [https://blog.cyfaris.com/](https://blog.cyfaris.com/)
 
 - 💬 Ask me about **Big Data Computing**
 
-- 📫 How to reach me **cyrus.cyf@gmail.com**
+- 📫 How to reach me **cyfarisx@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
